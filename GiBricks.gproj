@@ -1,0 +1,47 @@
+<project>
+ <properties osx_bundle="com.yourdomain." touchToMouse="1" mouseTouchOrder="0" autorotation="0" version_code="1" osx_domain="giderosmobile.com" windowWidth="0" ios_bundle="com.yourdomain." assetsOnly="0" android_template="0" encryptCode="0" version="1.0" retinaDisplay="2" osx_category="5" win_org="GiderosMobile" html5_host="" mouseToTouch="1" logicalWidth="1440" windowHeight="0" win_domain="giderosmobile.com" winrt_org="GiderosMobile" scaleMode="3" osx_org="GiderosMobile" architecture="0" fps="60" winrt_package="com.yourdomain.yourapp" logicalHeight="2280" orientation="0" packageName="com.yourdomain.yourapp" iosDevice="0" encryptAssets="0">
+  <imageScales/>
+ </properties>
+ <folder name="code">
+  <file source="code/FinishedScene.lua"/>
+  <file source="code/Floor.lua"/>
+  <file source="code/Sounds.lua"/>
+  <file source="code/Settings.lua"/>
+  <file source="code/Paddle.lua"/>
+  <file source="code/Main.lua"/>
+  <file source="code/GameScene.lua"/>
+  <file source="code/Config.lua"/>
+  <file source="code/Button.lua"/>
+  <file source="code/Brick.lua"/>
+  <file source="code/Boundary.lua"/>
+  <file source="code/Ball.lua"/>
+  <folder name="utils">
+   <file source="code/utils/scenemanager.lua"/>
+   <file source="code/utils/gtween.lua"/>
+   <file source="code/utils/easing.lua"/>
+   <file source="code/utils/dataSaver.lua"/>
+  </folder>
+ </folder>
+ <folder name="fonts">
+  <file source="fonts/blowbrush.otf"/>
+ </folder>
+ <folder name="images">
+  <file source="images/background.jpg"/>
+ </folder>
+ <folder name="levels">
+  <file source="levels/1.json"/>
+  <file source="levels/2.json"/>
+  <file source="levels/3.json"/>
+ </folder>
+ <folder name="sounds">
+  <file source="sounds/blue.wav"/>
+  <file source="sounds/completed.wav"/>
+  <file source="sounds/green.wav"/>
+  <file source="sounds/pink.wav"/>
+  <file source="sounds/yellow.wav"/>
+ </folder>
+ <folder name="texturepacks">
+  <file source="texturepacks/GameScene.txt"/>
+  <file source="texturepacks/GameScene.png"/>
+ </folder>
+</project>

@@ -1,0 +1,24 @@
+<library>
+ <properties padding="1" showUnusedAreas="0" removeAlphaBorder="0" extrude="0" alphaThreshold="0" forceSquare="0"/>
+ <file file="Bricks/brick_yellow_small.png"/>
+ <file file="Bricks/brick_yellow_small_cracked.png"/>
+ <file file="Bricks/brick_violet_small.png"/>
+ <file file="Bricks/brick_violet_small_cracked.png"/>
+ <file file="Bricks/brick_pink_small.png"/>
+ <file file="Bricks/brick_pink_small_try.png"/>
+ <file file="Bricks/brick_green_small.png"/>
+ <file file="Bricks/brick_green_small_cracked.png"/>
+ <file file="Bricks/brick_blue_small.png"/>
+ <file file="Bricks/brick_blue_small_cracked.png"/>
+ <file file="Bats/bat_yellow.png"/>
+ <file file="Bats/bat_pink.png"/>
+ <file file="Bats/bat_orange.png"/>
+ <file file="Bats/bat_blue.png"/>
+ <file file="Bats/bat_black.png"/>
+ <file file="Balls/ball_yellow.png"/>
+ <file file="Balls/ball_silver.png"/>
+ <file file="Balls/ball_red.png"/>
+ <file file="Balls/ball_orange.png"/>
+ <file file="Balls/ball_green.png"/>
+ <file file="Balls/ball_blue.png"/>
+</library>

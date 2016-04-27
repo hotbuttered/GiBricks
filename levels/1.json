@@ -1,0 +1,8 @@
+[
+{"object": "brick", "count": 6, "x":125, "y":560, "color": "pink", "points": 100},
+{"object": "brick", "count": 6, "x":125, "y":670, "color": "blue", "points":50},
+{"object": "brick", "count": 6, "x":125, "y":780, "color": "green", "points": 25},
+{"object": "paddle", "x":1000, "y":2250, "color": "blue"},
+{"object": "ball", "x": 1000, "y": 1000, "color": "yellow", "impulseX": 150, "impulseY": 150}
+]
+ 
