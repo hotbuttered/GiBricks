@@ -13,7 +13,7 @@ Thanks to Sujit Yadav of [UnLucky Studio](http://unluckystudio.com) for creating
 
 ### FONTS
 
-Thanks to [Petar Acanski] https://dribbble.com/thizizraz for creating the blowbrush font, licenced for free commercial use from [GraphicBurger](http://graphicburger.com).
+Thanks to [Petar Acanski](https://dribbble.com/thizizraz) for creating the blowbrush font, licenced for free commercial use from [GraphicBurger](http://graphicburger.com).
 
 ### UTILITY CODE
 
