@@ -1,6 +1,13 @@
 ### GIBRICKS
 
-GiBricks is a simple game created as a reference for building games using [Gideros Mobile](http://giderosmobile.com).
+GiBricks is a simple 2D paddle game demo, created as an example for [Gideros](http://giderosmobile.com).
+
+To run the game on your computer, first install the free [Gideros Studio](http://giderosmobile.com/download) development environment.
+
+1. Launch Gideros Studio and load the provided project file (GiBricks.gproj).
+2. From the Player menu, select "Start Local Player" to launch Gideros Player.
+3. From the Gideros Player Hardware menu, set Orientation to "Portrait" and Frame Rate to "60 fps."
+4. From the Gideros Studio Player menu, select "Start."
 
 ### LICENSE
 
