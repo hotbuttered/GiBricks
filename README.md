@@ -17,7 +17,7 @@ Thanks to [Petar Acanski](https://dribbble.com/thizizraz) for creating the blowb
 
 ### UTILITY CODE
 
-Thanks to Arturs Sosins for the [dataSaver class](https://github.com/ar2rsawseen/dataSaver.git)
+Thanks to Arturs Sosins for the [dataSaver class](https://github.com/ar2rsawseen/dataSaver.git).
 
 ### AUDIO
 
